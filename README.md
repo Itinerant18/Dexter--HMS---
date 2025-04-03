@@ -1,4 +1,4 @@
-# Dexter Web Application (Version 2.0.2-copy) - README
+# Dexter Web Application (Version 3.o) - README
 
 ## 1. Introduction & Purpose
 
@@ -124,7 +124,7 @@ Dexter follows a **Client-Server web application architecture**:
 1. **Clone the Repository**
    ```bash
    git clone <your-repository-url>
-   cd Dexterweb2.0.2-copy
+   cd Dexterweb3.o
    ```
 
 2. **Create & Activate Virtual Environment**
@@ -182,7 +182,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 11. Contact / Support
 
-For questions or support, contact: **[your-email@example.com]**
+For questions or support, contact: **[itinerant018@gmail.com]**
 
 ---
 
