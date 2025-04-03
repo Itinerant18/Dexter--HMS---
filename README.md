@@ -71,6 +71,9 @@ Welcome to **Dexter Web Application** – a powerful, user-friendly control pane
 ├── 📂 templates/         # UI Templates (HTML)
 │   ├── layout.html       # Base template
 │   ├── advanced.html     # Advanced settings page
+|   |
+.   .
+.   .
 ├── 📂 static/            # Frontend assets
 │   ├── css/             # Stylesheets
 │   ├── js/              # JavaScript files
