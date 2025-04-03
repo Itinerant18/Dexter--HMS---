@@ -156,7 +156,7 @@ $ python seple.py
 
 ## 📧 11. Contact / Support
 
-📩 For questions or support, contact: **[your-email@example.com]**  
+📩 For questions or support, contact: **[itinerant018@gmail.com]**  
 
 ---
 
