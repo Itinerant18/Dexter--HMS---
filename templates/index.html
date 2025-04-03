@@ -3,7 +3,7 @@
 <head>
     <link rel="stylesheet" href="{{url_for('static',filename='css/styles.css')}}">
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Login Page</title>
     <link rel="icon" href="{{ url_for('static', filename='asset/TitleLogo.png') }}" type="image/x-icon" >
 </head>
@@ -19,7 +19,7 @@
             name="username"
             type="text"
             class="input"
-            required=""/>
+            required autocomplete="username"/>
 
             <input 
             placeholder="Password"
@@ -27,7 +27,7 @@
             name="password"
             type="password"
             class="input"
-            required=""/>
+            required autocomplete="current-password"/>
 
             <span class="forgot-password"><a href="/resetpassword"><b>Reset your password</b></a></span>
             <input value="Sign In" type="submit" class="login-button"/>
